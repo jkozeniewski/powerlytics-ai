@@ -1,0 +1,1 @@
+UPDATED NAVIGATION: Upload index.html, styles.css, app.js, config.js and powerlytics-logo.png to the ROOT of your existing GitHub repository, replacing files with the same names. Do not upload the containing folder. The four solution tabs are now visible and clickable. YouTube ID is already configured.
