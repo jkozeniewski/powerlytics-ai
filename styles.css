@@ -10,3 +10,11 @@
 .navigation-hint{color:#777a8b;font-size:12px;text-align:center}
 .presentation .section-label{margin-top:31px}
 @media(max-width:600px){.solution-tabs{gap:8px;margin-top:20px}.solution-tab{padding:12px 9px;gap:7px;min-height:58px}.solution-tab.selected{padding:11px 8px}.tab-name{font-size:12px}.tab-number{font-size:11px}.navigation-hint{display:none}}
+/* Improve section label readability */
+.kicker,
+.takeaway-label,
+.subheading {
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+}
